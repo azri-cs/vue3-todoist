@@ -1,4 +1,4 @@
-# Vue3-todoist
+# Vue3 To-doist
 A simple todo-ist made using Vue 3 following [this series](https://laracasts.com/series/learn-vue-3-step-by-step "Learn Vue 3 Step by Step") until episode 12.
 
 ## How to use?
